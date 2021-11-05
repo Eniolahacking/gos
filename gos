@@ -1,6 +1,6 @@
 #coding=utf-8
 #!/usr/bin/python2
-#Originally Written By SHADOW HACKER CYBER KING
+#Originally Written By @eniolahacking🖕🚫🚫👉👉🚫🚫🔕🔕🔕🔕🔕🔕🙅🙅🙅🏃
 try:
     import os,sys,time,datetime,re,random,hashlib,threading,json,getpass,urllib,cookielib,requests
     from multiprocessing.pool import ThreadPool
@@ -51,7 +51,7 @@ c2 = "\033[0;97m"
 c3 = "\033[1;31m"
 #MyLogo
 def logo():
-    os.system('echo -e "â–ˆâ–ˆðŸwelcome to itz efkðŸ‡¼â–‘\nâ–ˆâ–ˆitz efk\nâ–ˆefk hacker•‘ \nâ–ˆâ–ˆâ•‘Alone efk hacker\n\n-----------------------------------------------\n\nâž£ Codded By : Kashmiri Hacker\nâž£ Facebook  : @itz efk\nâž£ Github    : https://github.com/eniolahacking/gos.git Whatsap   : +23480570911$$\n\n-----------------------------------------------" | lolcat')
+    os.system('echo -e "â–ˆâ–ˆðŸwelcome to itz efkðŸ‡¼â–‘\nâ–ˆâ–ˆitz efk\nâ–ˆefk hacker•‘ \nâ–ˆâ–ˆâ•‘Alone efk hacker\n\n-----------------------------------------------\n\nâž£ Codded By : Kashmiri Hacker\nâž£ Facebook  : @itz efk\nâž£ Github    : https://github.com/eniolahacking/gos.git Whatsap   : +23480570911xx\n\n-----------------------------------------------" | lolcat')
 def method_menu():
     os.system("clear")
     logo()
