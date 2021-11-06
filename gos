@@ -58,8 +58,8 @@ def method_menu():
     print("")
     print("\t    \033[1;32mClone Method Menu\033[0;97m")
     print("")
-    print("[1] Fast (cloning)")
-    print("[2] Localhost")
+    print("[1] Fast (cloning)working💯💯💯👉🖕✌️😍🇳🇬")
+    print("[2] Localhostnot working🚫🚫🚫🔕")
     print("")
     method_menu_select()
 def method_menu_select():
